@@ -4,4 +4,3 @@ google-generativeai
 python-dotenv
 PyPDF2
 duckduckgo-search
-phi-agent
